@@ -1,0 +1,18 @@
+title: GetAIzed
+author: GetAIzed
+description: A modern blog exploring the latest in Artificial Intelligence, machine learning, and the future of technology.
+baseurl: ""
+url: ""
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

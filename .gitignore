@@ -1,0 +1,17 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# Node (Editor)
+editor/node_modules/
+editor/npm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
