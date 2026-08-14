@@ -5,8 +5,8 @@
   --text-secondary: #57534e;    /* stone-600 */
   --text-muted: #878680;        /* Muted gray-brown */
   --border-color: #e7e5e4;      /* stone-200 */
-  --accent-color: #4f46e5;      /* Friendly royal indigo */
-  --accent-hover: #3730a3;
+  --accent-color: #1c1917;      /* Professional deep stone/charcoal */
+  --accent-hover: #78716c;
   --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.04);
   --shadow-md: 0 10px 15px -3px rgba(41, 37, 36, 0.03), 0 4px 6px -4px rgba(41, 37, 36, 0.03);
   --glass-bg: rgba(253, 252, 251, 0.85);
@@ -23,8 +23,8 @@
   --text-secondary: #d6d3d1;    /* stone-300 */
   --text-muted: #78716c;        /* stone-500 */
   --border-color: #44403c;      /* stone-700 */
-  --accent-color: #a5b4fc;      /* Soft approachable indigo-300 */
-  --accent-hover: #c7d2fe;
+  --accent-color: #fafaf9;      /* Professional stone-50 cream */
+  --accent-hover: #a8a29e;
   --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
   --shadow-md: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -4px rgba(0, 0, 0, 0.3);
   --glass-bg: rgba(28, 25, 23, 0.85);
