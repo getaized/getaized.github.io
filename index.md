@@ -3,6 +3,6 @@ layout: home
 title: Home
 ---
 
-# GetAIzed
+# Hello! Welcome to GetAIzed. ✨
 
-Welcome to GetAIzed, a modern publication exploring the frontier of artificial intelligence, cognitive architectures, and the future of human-machine collaboration. We dissect the latest research, tooling, and applications shaping the new era of computing.
+We are a friendly blog dedicated to exploring the future of artificial intelligence, smart tools, and how humans and machines work together. Whether you are a developer or just curious about where the tech is going, we're here to break down the latest research, tools, and ideas in a way that makes sense. Let's learn together!
