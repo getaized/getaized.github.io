@@ -2,7 +2,7 @@ title: GetAIzed
 author: GetAIzed
 description: A modern blog exploring the latest in Artificial Intelligence, machine learning, and the future of technology.
 baseurl: ""
-url: ""
+url: "https://getaized.github.io"
 
 markdown: kramdown
 theme: minima
