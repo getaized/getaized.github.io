@@ -6,6 +6,7 @@ url: "https://getaized.github.io"
 
 markdown: kramdown
 theme: minima
+permalink: pretty
 
 plugins:
   - jekyll-seo-tag
